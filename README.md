@@ -16,6 +16,7 @@ _clona el proyecto_
 - Ejecuta en la terminal tsc salida.ts -w
 
 ## Construido con 🛠️
+-TypeScript
 
 
 ## Autores ✒️
